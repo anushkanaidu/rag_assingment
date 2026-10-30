@@ -1,0 +1,11 @@
+id,question,relevant_sources,expected_answer,type
+1,How many PTO days do full-time employees receive?,01_paid_time_off.md,20 days per calendar year,direct
+2,How far in advance must PTO be requested?,01_paid_time_off.md,10 business days,direct
+3,Which provider screens US employees for background verification?,02_background_verification.md,HireRight,direct
+4,What are the required trainings and when must they be finished?,04_mandatory_training.md,"Harassment Prevention, AI Ethics, Tool Onboarding; within 14 calendar days",list
+5,Does IT give access before or after HR intake confirmation?,03_onboarding.md;05_it_and_tools.md,After HR confirms intake,cross-document
+6,What is the weekly manager meeting day?,06_manager_checkins.md,Friday,direct
+7,What security rule applies to public Wi-Fi during remote work?,07_remote_work.md,VPN required,scenario
+8,What approvals are needed for an expense above $500?,08_expenses.md,Written manager approval before purchase,scenario
+9,Can an employee paste confidential data into an AI tool?,09_conduct.md,Not without authorization,scenario
+10,What is the CEO’s favorite food? ,,Not specified; should abstain,unanswerable
